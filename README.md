@@ -70,5 +70,5 @@
 
 <!-- ─────────────────────────────── FOOTER TAGS ─────────────────────────────── -->
 <p align="center">
-  <i>“Data is the new oil—optimising its journey is my favourite sport.”</i>
+  <i>“Most of us need to listen to the music to understand how beautiful it is. But often that’s how we present statistics: we just show the notes, we don’t play the music.” — Hans Rosling.</i>
 </p>
