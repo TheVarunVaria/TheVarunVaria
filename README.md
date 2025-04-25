@@ -70,5 +70,5 @@
 
 <!-- ─────────────────────────────── FOOTER TAGS ─────────────────────────────── -->
 <p align="center">
-  <i>“Most of us need to listen to the music to understand how beautiful it is. But often that’s how we present statistics: we just show the notes, we don’t play the music.” — Hans Rosling.</i>
+  <i>“Without data, you're just another person with an opinion.” — W. Edwards Deming</i>
 </p>
